@@ -284,7 +284,7 @@ footer img{
    #header .header-1{
     font-size: 70px;
     display: flex;
-    margin-left: 50%;
+    margin-left: 45%;
    }
    #header .header-1 .h-0 img {
     display: block;
@@ -320,7 +320,7 @@ footer img{
     padding-left: 280%;
    }
     .main-1 .title .title-1,.title-2{
-      font-size: 120px;  
+      font-size: 130px;  
     }
    .main-1 .title-1{
     white-space: nowrap;
@@ -337,18 +337,18 @@ footer img{
    } */
    .main-1 .sub-title .span{
     display: block;
-    font-size: 65px;
+    font-size: 70px;
    }
    .main-1 .text .button button{
-    font-size: 500px;
-    padding-left: 265px;
-    padding-right: 295px;
-    padding-top: 58px;
-    padding-bottom: 58px;
+    font-size: 600px;
+    padding-left: 255px;
+    padding-right: 324px;
+    padding-top: 70px;
+    padding-bottom: 70px;
     font-size: 50px;
    }
    .main-1 .text .button .btn{
-    font-size: 55px;
+    font-size: 65px;
     white-space: nowrap;
     margin-left: -160px;
     margin-top: -35px;
@@ -400,7 +400,7 @@ footer img{
 
    .main-3 .title{
     font-size: 80px;
-    margin-left: 120%;
+    margin-left: 105%;
     margin-top: 60%;
     white-space: nowrap;
    }
@@ -487,18 +487,18 @@ footer img{
    }
    .main-4 .title{
     display: flex;
-    font-size: 80px;
+    font-size: 100px;
     text-align: center;
     white-space: nowrap;
-    margin-left: -30px;
+    margin-left: 5px;
    }
    .main-4 .sub-title{
     white-space: nowrap;
     display: flex;
     text-align: center;
-    font-size: 70px;
+    font-size: 85px;
     margin-top: -50px;
-    margin-left: -50px;
+    margin-left: -20px;
    }
    .main-4 .sub-title .normal-br{
     display: none;
@@ -507,17 +507,17 @@ footer img{
     display: block;
    }
    .main-4 .button{
-    margin-left: 100px;
+    margin-left: 250px;
    }
    .main-4 .button button{
-    padding-top:25px ;
-    padding-bottom: 85px;
-    padding-left: 55px;
-    padding-right: 265px;
+    padding-top:35px ;
+    padding-bottom: 100px;
+    padding-left: 65px;
+    padding-right: 300px;
     margin-top: 80px;
     margin-left: 210px;
     white-space: nowrap;
-    font-size: 50px;
+    font-size: 60px;
    }
    .main-4 .image img{
     width: 1280px;
@@ -535,6 +535,7 @@ footer img{
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    padding-left: 10px;
     /* font-size: 100px; */
    }
    footer .title{
