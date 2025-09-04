@@ -535,7 +535,8 @@ footer img{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    padding-left: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
     /* font-size: 100px; */
    }
    footer .title{
