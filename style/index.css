@@ -317,7 +317,7 @@ footer img{
     flex-direction: column;
     text-align: center;
     padding-top: 1000px;
-    padding-left: 290%;
+    padding-left: 292%;
    }
     .main-1 .title .title-1,.title-2{
       font-size: 130px;  
@@ -480,14 +480,14 @@ footer img{
     flex-direction: column-reverse;
    }
    .main-4 .text{
-    margin-left: 90px;
+    margin-left: 105px;
    }
    .main-4 .title br {
     display: block;
    }
    .main-4 .title{
     display: flex;
-    font-size: 85px;
+    font-size: 90px;
     text-align: center;
     white-space: nowrap;
     margin-left: 5px;
@@ -496,7 +496,7 @@ footer img{
     white-space: nowrap;
     display: flex;
     text-align: center;
-    font-size: 75px;
+    font-size: 80px;
     margin-top: -50px;
     margin-left: -20px;
    }
@@ -515,7 +515,7 @@ footer img{
     padding-left: 65px;
     padding-right: 300px;
     margin-top: 60px;
-    margin-left: 105px;
+    margin-left: 160px;
     white-space: nowrap;
     font-size: 60px;
    }
@@ -535,8 +535,8 @@ footer img{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
     /* font-size: 100px; */
    }
    footer .title{
