@@ -507,6 +507,7 @@ footer img{
     display: block;
    }
    .main-4 .button{
+    display: none;
     margin-left: 250px;
    }
    .main-4 .button button{
